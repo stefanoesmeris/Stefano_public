@@ -136,6 +136,7 @@ class MyApp(wx.App):
 		else:
 			print('outro evento de Botao')
 		
+# segue aqui um comentario para verificar o funcionamento do github
 		
 if __name__ == "__main__":
 	app = MyApp(False)
